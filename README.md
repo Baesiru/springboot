@@ -11,6 +11,9 @@
   * JDBC(Java DataBase Connectivity)와 JPA(Java Persistence Api)의 차이점 및 ORM(Object-Relational Mapping)
   * RestFul API 학습
 
+## 기술 스택
+```Java``` ```Spring Boot``` ```Spring Data JPA```
+
 # 게시판 기본 기능
 * 전체 게시글 보기
   
