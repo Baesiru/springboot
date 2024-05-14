@@ -12,7 +12,7 @@
   * RestFul API 학습
 
 ## 기술 스택
-```Java``` ```Spring Boot``` ```Spring Data JPA```
+```Java``` ```Spring Boot``` ```Spring Data JPA``` ```H2-Database``` ```Html/Css``` ```Java Script``` ```Mustache``` ```Bootstrap 5.0.2```
 
 # 게시판 기본 기능
 * 전체 게시글 보기
